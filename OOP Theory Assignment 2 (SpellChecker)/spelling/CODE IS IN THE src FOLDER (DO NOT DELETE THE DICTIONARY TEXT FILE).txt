@@ -1,0 +1,3 @@
+Test Cases for SpellChecker.txt & words.txt are optional text files
+
+The CASES however are listed in the Test Cases for SpellChecker.txt file, so it needn't be deleted
